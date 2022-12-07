@@ -10,7 +10,7 @@
 				<!--start: Logo -->
 				<div class="logo span3">
 						
-					<a class="brand" href="index.php"><img src="img/logo3.png" alt="Logo"></a>
+					<a class="brand" href="index.php"><img src="img/logo.km.jpeg" alt="Logo"></a>
 						
 				</div>
 				<!--end: Logo -->

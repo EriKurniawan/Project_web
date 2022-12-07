@@ -2,8 +2,8 @@
 	<!-- start: Meta -->
 	<meta charset="utf-8">
 	<title>Kantin KAMOLA</title> 
-	<meta name="description" content="Warung Sunda Ibu Nana | Makanan khas sunda yang ada di cikarang"/>
-	<meta name="keywords" content="Warung, Makan, Sunda, Halal, Enak, Nikmat, Bersih, Terjamin" />
+	<meta name="description" content="Kantin Modern Polinela | Makanan sehat dan bergizi yang ada di Polinela"/>
+	<meta name="keywords" content="Kantin Modern Polinela, Halal, Enak, Bergizi, Nikmat, Bersih, Terjamin" />
 	<!-- end: Meta -->
 	
 	<!-- start: Mobile Specific -->

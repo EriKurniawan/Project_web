@@ -124,7 +124,7 @@ echo "</table>";
 				<!-- start: Footer Menu Logo -->
 				<div class="span2">
 					<div id="footer-menu-logo">
-						<a href="#"><img src="img/logo3.png" alt="logo" /></a>
+						<a href="#"><img src="img/logo.km.jpeg" alt="logo" /></a>
 					</div>
 				</div>
 				<!-- end: Footer Menu Logo -->
